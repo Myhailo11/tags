@@ -1,0 +1,22 @@
+.text {
+    font-size: 50px; 
+}  
+
+.green-text { 
+    color: green;
+}
+
+#title{
+    font-size: 78px; 
+}
+
+.heading{
+    font-size: 18px;    
+}
+
+.social-links a {
+    color: red;
+}
+.menu > li {
+    border: 1px solid red;
+}
